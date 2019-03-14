@@ -1,4 +1,4 @@
 
 
 
-select * from dbo.spt_fallback_db ;
+select * from sys.databases;
