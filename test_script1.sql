@@ -1,4 +1,4 @@
 
 
 
-select * from spt_fallback_usg;
+select * from dbo.spt_fallback_usg;
