@@ -1,4 +1,4 @@
 
 
 
-select * from sys.databases;
+select * from spt_fallback_usg;
