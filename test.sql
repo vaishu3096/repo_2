@@ -1,1 +1,1 @@
-select * from sys.databases;
+select * from spt_monitor;
